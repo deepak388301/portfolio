@@ -1,0 +1,16 @@
+import { useState } from 'react';
+
+function Counter() {
+  // count: the current value
+  // setCount: the function we use to change the value
+  const [count, setCount] = useState(0);
+
+  return (
+    <div>
+      <p>You clicked {count} times</p>
+      <button onClick={() => setCount(count + 1)}>
+        Click Me
+      </button>
+    </div>
+  );
+}
