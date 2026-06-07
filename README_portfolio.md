@@ -1,3 +1,4 @@
+
 # 💼 Personal Portfolio — Deepak E
 
 My personal developer portfolio showcasing projects, skills, and experience as an ECE undergrad with a focus on web development and AI.
@@ -24,7 +25,7 @@ This portfolio is a web-based showcase of my work, built to give recruiters, col
 | Layer | Technology |
 |---|---|
 | Frontend | HTML, CSS, JavaScript |
-| Framework (if applicable) | React / Vite |
+| Framework  | React / Vite |
 | Hosting | GitHub Pages / Vercel |
 
 ---
